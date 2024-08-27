@@ -73,3 +73,10 @@ cargo run -- --cidr 127.0.0.1/30 --query
   '127.0.0.3'
 )
 ```
+
+* Please be aware of the terminal settings, as the beginning may be cut off if the scroll buffer is limited.
+
+
+
+https://github.com/user-attachments/assets/c8ff44d3-3b2b-42d8-bdd7-3791b85f7a72
+
